@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cameraname: MyString
+  pictureURL: MyString
+
+two:
+  cameraname: MyString
+  pictureURL: MyString
